@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.bak
+local.properties
+.gradle/
+build/
+app/build/
